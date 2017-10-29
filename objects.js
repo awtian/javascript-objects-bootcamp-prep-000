@@ -9,6 +9,7 @@ function updatePlaylist (playlist, artistName, song) {
 
 function removeFromPlaylist (playlist, artist) {
   var fuck = `${playlist}.${artist}`
+  console.log fuck
   delete fuck
   return playlist
 }

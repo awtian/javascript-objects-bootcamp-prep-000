@@ -8,7 +8,7 @@ function updatePlaylist (playlist, artistName, song) {
 }
 
 function removeFromPlaylist (playlist, artist) {
-  delete playlist.object.artist
+  var fuck = `${playlist}.${artist}`
   return playlist
 }
 

@@ -14,4 +14,4 @@ function removeFromPlaylist (playlist, artist) {
   return playlist
 }
 
-console.log (updatePlaylist(playlist, jancok, perek))
+console.log (updatePlaylist({}, jancok, perek))

@@ -2,9 +2,8 @@ var playlist = {
   keyaki: "Futari Saison"
 };
 
-function updatePlaylist (playlist, x, song) {
-  var x = `artistName`
-  playlist.x = song
+function updatePlaylist (playlist, artistName, song) {
+  playlist.artistName = song
   return playlist
 }
 

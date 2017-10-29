@@ -3,7 +3,6 @@ var playlist = {
 };
 
 function updatePlaylist (playlist, x, song) {
-  var artist= artist
   playlist.x = song
   return playlist
 }

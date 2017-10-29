@@ -1,4 +1,4 @@
-var playlist {
+var playlist = {
   keyaki: "Futari Saison",
   gd: "That XX",
   logic: "1-800"

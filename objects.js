@@ -1,7 +1,5 @@
 var playlist = {
-  keyaki: "Futari Saison",
-  gd: "That XX",
-  logic: "1-800"
+  keyaki: "Futari Saison"
 };
 
 function updatePlaylist (playlist, artist, song) {

@@ -11,5 +11,5 @@ function removeFromPlaylist (playlist, artist) {
   delete playlist.artist
   return playlist
 }
-console.log (playlist.keyaki)
+console.log (playlist.keyaki=taek)
 console.log (updatePlaylist({}, playlist, jancok, perek))

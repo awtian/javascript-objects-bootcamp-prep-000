@@ -14,4 +14,4 @@ function removeFromPlaylist (playlist, artist) {
 }
 
 
-console.log ((updatePlaylist({}, 'Phil Ochs', "Here's to the State of Mississippi")))
+console.log ((updatePlaylist({}, "Phil Ochs", "Here's to the State of Mississippi")))

@@ -4,8 +4,8 @@ var playlist = {
   logic: "1-800"
 };
 
-function updatePlaylist (playlist, artistName, songTitle) {
-  playlist.artistName = songTitle
+function updatePlaylist (playlist, artist, songTitle) {
+  playlist.artist = songTitle
   return playlist
 }
 
